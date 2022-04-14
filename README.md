@@ -6,7 +6,6 @@ Hi, I'm Nigar Khan, a Full-stack Web Developer 🚀 , Always doing my best with 
   
 **Talking about Personal Stuffs:**
 
-- 💼 Software Engineer at [Fidelity Investments](https://www.fidelity.com/)
 - 👨‍💻 I’m currently working on some side projects to endorse my skills;
 - 🌱 I’m currently learning best practice in JavaScript, problem solving with Angular;
 - 👯 I’m looking to collaborate and work alongside an expert team of developers 🤝;
