@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 -->
 
 [ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigarkhan12&layout=compact)
-![github stats](https://github-readme-stats.vercel.app/api?username=nigarkhan12&theme=highcontrast)](https://github-readme-stats.vercel.app/api/top-langs/?username=nigarkhan12&theme=highcontrast)
+![github stats](https://github-readme-stats.vercel.app/api?username=nigarkhan12&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=nigarkhan12&theme=radical)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nigar-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nigar-khan/)](https://www.linkedin.com/in/nigar-khan/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nigar-292929?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nigar-khan/)](https://www.linkedin.com/in/nigar-khan/)
 
 <!-- ![profile](https://gpvc.arturio.dev/baselrabia)-->
