@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning best practice in JavaScript, problem solving with Angular;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: playing computer games and solving Bugs is my enteritanment 🤗;
-- 📫 How to reach me: [here](https://github.com/nigarkhan12/nigarkhan12/issues);
+- 📫 How to reach me: [here](https://github.com/nigarkhan12/nigarkhan12/issues)
 - 📝[My Portfolio]() 👨‍💻
 
 **Languages and Tools:**
