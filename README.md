@@ -1,9 +1,6 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It%27s+Nigar!+%F0%9F%91%8B;I%27m+a+FullStack+Developer)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-Hi, I'm Nigar Khan, a Full-stack Web Developer 🚀 , Always doing my best with the aim of learning new technologies 👨‍💻; Beside's programming, I enjoy eating food and coding 😋.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-  
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I’m currently working on some side projects to endorse my skills;
@@ -12,7 +9,7 @@ Hi, I'm Nigar Khan, a Full-stack Web Developer 🚀 , Always doing my best with 
 - 🤔 I’m looking for new challanges and new opportunity to gain the experience which I'm proud to have it 🤩;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: playing computer games and solving Bugs is my enteritanment 🤗;
-- 📫 How to reach me: nigarkhan92@gmail.com;
+- 📫 How to reach me: [here](https://github.com/nigarkhan12/nigarkhan12/issues);
 - 📝[My Portfolio]() 👨‍💻
 
 **Languages and Tools:**
