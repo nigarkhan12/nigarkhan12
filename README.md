@@ -5,8 +5,6 @@
 
 - 👨‍💻 I’m currently working on some side projects to endorse my skills;
 - 🌱 I’m currently learning best practice in JavaScript, problem solving with Angular;
-- 👯 I’m looking to collaborate and work alongside an expert team of developers 🤝;
-- 🤔 I’m looking for new challanges and new opportunity to gain the experience which I'm proud to have it 🤩;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: playing computer games and solving Bugs is my enteritanment 🤗;
 - 📫 How to reach me: [here](https://github.com/nigarkhan12/nigarkhan12/issues);
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigarkhan12&layout=compact)
+[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nigarkhan12&layout=compact&theme=github_dark&langs_count=10)
 ![github stats](https://github-readme-stats.vercel.app/api?username=nigarkhan12&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=nigarkhan12&theme=radical&show_icons=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nigar-292929?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nigar-khan/)](https://www.linkedin.com/in/nigar-khan/)
