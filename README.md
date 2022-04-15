@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It%27s+Nigar!+%F0%9F%91%8B;I%27m+a+FullStack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hey!+It%27s+Nigar!+%F0%9F%91%8B;I%27m+a+FullStack+Developer)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 **Talking about Personal Stuffs:**
