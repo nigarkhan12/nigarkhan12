@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on some side projects to endorse my skills;
 - 🌱 I’m currently learning best practice in JavaScript, problem solving with Angular;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me anything related to my Projects or my TechStack, I am happy to help;
 - ⚡️ Fun-Fact: playing computer games and solving Bugs is my enteritanment 🤗;
 - 📫 How to reach me: [here](https://github.com/nigarkhan12/nigarkhan12/issues)
 - 📝[My Portfolio]() 👨‍💻
